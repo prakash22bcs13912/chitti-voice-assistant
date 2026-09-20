@@ -25,6 +25,6 @@ Open it in Chrome or Edge, tap the orb once, and allow the microphone.
 Get a free Gemini key at https://aistudio.google.com/apikey
 
 ## 🚀 Live Demo
-Add your Streamlit link here.
+[Add your Streamlit link here.](https://chitti-voice-assistant-nygsyjyh2hadfo4nuiqpj6.streamlit.app/)
 
 Built by Jayaprakash Reddy
